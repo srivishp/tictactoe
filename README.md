@@ -1,2 +1,2 @@
-# Android Projects
-Android Studio Projects in Java & Kotlin from AppLab 2019.
+# Tic Tac Toe
+Android Studio Project in Java & Kotlin from AppLab 2019.
